@@ -1,1 +1,13 @@
+numpy
+pandas
+scikit-learn
+matplotlib
 streamlit
+joblib
+openpyxl
+xgboost        
+lightgbm       
+catboost       
+plotly>=5.0
+openpyxl
+shap
